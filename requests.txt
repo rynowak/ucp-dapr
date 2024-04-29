@@ -1,0 +1,15 @@
+# List
+
+curl --request GET http://localhost:8080/planes/radius/local/providers/Applications.Core/containers
+
+# Get
+
+curl --request /planes/radius/local/providers/Applications.Core/containers/a
+
+# Delete
+
+curl --request /planes/radius/local/providers/Applications.Core/containers/a
+
+# Put
+
+curl --request /planes/radius/local/providers/Applications.Core/containers/a
